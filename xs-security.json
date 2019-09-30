@@ -1,7 +1,7 @@
 {
   "xsappname": "openSAPHANA",
   "tenant-mode": "dedicated",
-  "description": "Security profile of called application",
+  "description": "Security profiles of called application",
   "scopes": [{
 		"name": "$XSAPPNAME.Display",
 		"description": "display"
