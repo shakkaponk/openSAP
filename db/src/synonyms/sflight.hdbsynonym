@@ -1,0 +1,26 @@
+{
+  "SFLIGHT": {
+    "target": {
+      "object": "SFLIGHT",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SMEAL": {
+    "target": {
+      "object": "SMEAL",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SCARR": {
+    "target": {
+      "object": "SCARR",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SBOOK": {
+    "target": {
+      "object": "SBOOK",
+      "schema": "SFLIGHT"
+    }
+  }
+}
